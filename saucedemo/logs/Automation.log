@@ -1,0 +1,269 @@
+2022-11-02 19:47:53 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 19:47:53 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 19:47:53 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 19:47:53 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 19:47:53 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 19:47:54 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:47:56 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:50:17 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 19:50:18 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 19:50:18 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 19:50:18 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 19:50:18 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 19:50:18 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:50:22 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:50:23 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:50:23 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:50:23 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:50:25 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:50:26 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:50:26 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:51:35 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 19:51:35 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 19:51:35 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 19:51:35 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 19:51:35 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 19:51:36 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:51:38 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:51:39 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:51:39 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:51:39 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:51:41 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:51:42 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:51:42 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:53:39 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 19:53:39 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 19:53:39 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 19:53:39 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 19:53:39 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 19:53:40 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:53:42 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:53:42 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 19:53:43 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:53:43 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:53:43 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:53:45 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:53:45 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 19:53:46 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:53:46 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:55:46 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 19:55:46 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 19:55:46 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 19:55:46 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 19:55:46 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 19:55:47 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:55:49 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:55:49 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 19:55:50 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:55:50 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:55:50 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:55:52 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:55:52 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 19:55:53 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:55:53 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:57:24 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 19:57:25 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 19:57:25 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 19:57:25 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 19:57:25 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 19:57:25 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:57:28 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:57:28 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 19:57:29 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:57:29 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:57:29 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:57:31 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:57:31 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 19:57:32 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:57:32 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:59:09 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 19:59:09 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 19:59:09 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 19:59:09 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 19:59:09 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 19:59:10 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:59:12 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:59:13 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 19:59:13 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:59:13 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 19:59:13 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 19:59:16 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 19:59:16 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 19:59:17 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 19:59:17 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:01:13 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 20:01:13 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 20:01:13 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 20:01:13 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 20:01:13 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 20:01:14 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:01:17 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:01:17 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 20:01:18 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:01:18 INFO  LoginPage:54 - Sign IN button not working & sign in screen not displayed
+2022-11-02 20:01:19 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:01:19 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:01:19 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:01:21 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:01:22 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 20:01:22 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:01:23 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:11:54 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 20:11:54 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 20:11:54 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 20:11:54 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 20:11:54 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 20:11:55 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:11:57 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:11:57 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 20:11:58 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:11:59 INFO  HomePage:48 - Sign In Page displayed
+2022-11-02 20:12:00 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:12:00 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:12:00 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:12:02 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:12:02 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 20:12:03 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:12:03 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:17:22 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 20:17:22 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 20:17:22 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 20:17:22 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 20:17:22 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 20:17:23 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:17:25 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:17:25 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 20:17:26 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:17:26 INFO  HomePage:48 - Sign In Page displayed
+2022-11-02 20:17:27 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:17:27 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:17:27 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:17:29 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:17:29 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 20:17:30 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:17:30 INFO  LoginPage:74 - Invalid username or password message not displayed
+2022-11-02 20:17:31 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:17:31 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:21:19 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 20:21:19 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 20:21:19 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 20:21:19 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 20:21:19 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 20:21:20 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:21:22 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:21:23 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 20:21:24 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:21:24 INFO  HomePage:48 - Sign In Page displayed
+2022-11-02 20:21:24 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:21:24 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:21:24 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:21:26 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:21:27 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 20:21:28 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:21:28 INFO  LoginPage:65 - Invalid username or password message has been entered
+2022-11-02 20:21:28 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:21:28 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:22:08 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 20:22:08 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 20:22:08 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 20:22:08 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 20:22:08 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 20:22:09 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:22:11 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:22:11 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 20:22:12 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:22:12 INFO  HomePage:48 - Sign In Page displayed
+2022-11-02 20:22:13 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:22:13 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:22:13 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:22:15 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:22:15 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 20:22:16 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:22:16 INFO  LoginPage:65 - Invalid username or password message has been entered
+2022-11-02 20:22:16 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:22:16 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:27:30 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 20:27:32 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 20:27:32 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 20:27:32 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 20:27:32 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 20:27:33 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:27:36 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:27:36 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 20:27:37 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:27:37 INFO  HomePage:48 - Sign In Page displayed
+2022-11-02 20:27:38 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:27:38 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:27:38 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:27:40 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:27:40 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 20:27:41 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:27:41 INFO  LoginPage:65 - Invalid username or password message has been entered
+2022-11-02 20:27:58 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:27:58 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:36:42 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 20:36:42 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 20:36:42 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 20:36:42 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 20:36:42 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 20:36:43 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:36:45 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:36:45 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 20:36:46 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:36:46 INFO  HomePage:48 - Sign In Page displayed
+2022-11-02 20:36:47 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:36:47 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:36:47 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:36:49 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:36:49 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 20:36:50 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:36:50 INFO  LoginPage:65 - Invalid username or password message has been entered
+2022-11-02 20:37:06 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:37:06 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:38:58 INFO  BaseRunner:44 - Existing Report Cleared
+2022-11-02 20:38:59 INFO  ExcelHelper:67 - -----------------------------------------------------------------------------------------------------
+2022-11-02 20:38:59 INFO  ExcelHelper:68 - Loaded test data file: /testdata/TestData_qa.xlsx
+2022-11-02 20:38:59 INFO  ConfigHelper:50 - Loaded config properties file: /config_qa.properties
+2022-11-02 20:38:59 INFO  BaseRunner:49 - Environment Setup Successful. Browser: Chrome, Environment: qa
+2022-11-02 20:38:59 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:39:02 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:39:02 INFO  TestInitializeHooks:31 - Scenario: Valid Login Scenario: Started
+2022-11-02 20:39:03 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:39:03 INFO  HomePage:48 - Sign In Page displayed
+2022-11-02 20:39:04 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:39:04 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+
+2022-11-02 20:39:04 INFO  TestInitializeHooks:27 - Browser Used: Chrome
+2022-11-02 20:39:06 INFO  BrowserFactory:64 - Driver Instance Created
+2022-11-02 20:39:06 INFO  TestInitializeHooks:31 - Scenario: Invalid Login Scenario: Started
+2022-11-02 20:39:07 INFO  DriverUtility:77 - 'Log In' clicked successfully
+2022-11-02 20:39:07 INFO  LoginPage:65 - Invalid username or password message has been entered
+2022-11-02 20:39:07 INFO  TestInitializeHooks:45 - Driver and Test data Instance Closed
+2022-11-02 20:39:07 INFO  TestInitializeHooks:46 - __________________________________________________________________________________________
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test suite">
+	<parameter name="browserName" value="Chrome" />
+	<parameter name="environment" value="qa" />	
+	<test name="Tests">
+		<classes>			
+			<class name="com.sauce.demo.automation.testrunners.BaseRunner"></class>
+			<parameter name="tags" value="@WORK" />			
+		</classes>
+	</test>	
+</suite>

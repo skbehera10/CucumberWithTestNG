@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="8.121">
+    <testcase classname="Login (Covers all Login scenarios )" name="Valid Login Scenario" time="4.237">
+        <system-out><![CDATA[Given Saucedemo Website.....................................................passed
+When User enters UserName & Password........................................passed
+And Clicks on LOGIN Button..................................................passed
+Then Home page should be displayed..........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Login (Covers all Login scenarios )" name="Invalid Login Scenario" time="3.702">
+        <system-out><![CDATA[Given Saucedemo Website.....................................................passed
+When User enters "sskbehera" & "Passw!".....................................passed
+And Clicks on LOGIN Button..................................................passed
+Then Invalid Password message should be displayed...........................passed
+]]></system-out>
+    </testcase>
+</testsuite>

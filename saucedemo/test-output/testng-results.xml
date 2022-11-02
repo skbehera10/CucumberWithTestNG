@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-02T20:38:58 GMT" name="Default suite" finished-at="2022-11-02T20:39:08 GMT" duration-ms="9417">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sauce.demo.automation.testrunners.BaseRunner@5f20155b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2022-11-02T20:38:58 GMT" name="Default test" finished-at="2022-11-02T20:39:08 GMT" duration-ms="9417">
+      <class name="com.sauce.demo.automation.testrunners.BaseRunner">
+        <test-method is-config="true" signature="setEnvDetails(java.lang.String,java.lang.String)[pri:0, instance:com.sauce.demo.automation.testrunners.BaseRunner@5f20155b]" started-at="2022-11-02T20:38:58 GMT" name="setEnvDetails" finished-at="2022-11-02T20:38:59 GMT" duration-ms="437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnvDetails -->
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:com.sauce.demo.automation.testrunners.BaseRunner@5f20155b]" started-at="2022-11-02T20:38:59 GMT" name="setUpClass" finished-at="2022-11-02T20:38:59 GMT" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sauce.demo.automation.testrunners.BaseRunner@5f20155b]" started-at="2022-11-02T20:38:59 GMT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-11-02T20:39:04 GMT" duration-ms="4375" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Valid Login Scenario"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login (Covers all Login scenarios )]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.sauce.demo.automation.testrunners.BaseRunner@5f20155b]" started-at="2022-11-02T20:39:04 GMT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-11-02T20:39:07 GMT" duration-ms="3712" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Invalid Login Scenario"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Optional[Login (Covers all Login scenarios )]"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.sauce.demo.automation.testrunners.BaseRunner@5f20155b]" started-at="2022-11-02T20:39:07 GMT" name="tearDownClass" finished-at="2022-11-02T20:39:08 GMT" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.sauce.demo.automation.testrunners.BaseRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
